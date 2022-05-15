@@ -13,3 +13,12 @@ Technology Used are : Azure Bot Service, Azure Machine Learning, Mobile Apps
  
  
 <h1>Our Learning_ChatBot services provide solutions for:</h1> 
+-->>Cracking the Coding Interview_ 150 Programming Questions and Solutions.
+-->>C Programing questions for the interview procdure and helping hand for freshers to learn.
+
+
+How to best prepare for a coding interview? ​
+Pick a good programming language to use.
+Plan your time and tackle topics and questions in order of importance.
+Combine studying and practicing for a single topic.
+Accompany practice with coding interview cheat sheets to internalize the must-dos and must-remembers.
